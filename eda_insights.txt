@@ -1,0 +1,42 @@
+
+============================================================
+  JOB MARKET INTELLIGENCE — KEY INSIGHTS
+  Data: 838 Naukri.com postings, scraped June 2026
+============================================================
+
+TOP 5 MOST IN-DEMAND SKILLS
+  1. Machine Learning  — 301 jobs
+  2. Python            — 275 jobs
+  3. SQL               — 150 jobs
+  4. NLP               — 111 jobs
+  5. Deep Learning     — 71 jobs
+
+TOP 3 HIRING CITIES
+  1. Hyderabad  (144 jobs)
+  2. Pune  (121 jobs)
+  3. Bangalore  (117 jobs)
+
+TOP 3 JOB CATEGORIES
+  1. Data Analyst  (151 jobs)
+  2. Data Scientist  (130 jobs)
+  3. Data Engineer  (126 jobs)
+
+EXPERIENCE INSIGHTS
+  Most jobs require  : 3-5 Years (Mid)
+  Avg min experience : 4.1 years
+  Avg max experience : 7.9 years
+  Toughest role      : Data Engineer (Data Engineer)
+
+SKILL DEPTH
+  Avg skills per job : 7.6
+  Median skills/job  : 8
+  Most skills in one posting: 8
+
+TOP 5 HIRING COMPANIES
+  1. Tata Consultancy Services  (42 jobs)
+  2. Accenture  (35 jobs)
+  3. Capgemini  (19 jobs)
+  4. Adobe  (13 jobs)
+  5. Crisil  (12 jobs)
+
+============================================================
